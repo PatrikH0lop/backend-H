@@ -1,0 +1,4 @@
+\beamer@endinputifotherversion {3.36pt}
+\select@language {czech}
+\beamer@sectionintoc {1}{My\IeC {\v s}lenka}{2}{0}{1}
+\beamer@sectionintoc {2}{V\IeC {\'y}sledky}{4}{0}{2}
